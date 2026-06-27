@@ -1,0 +1,24 @@
+color_name,hex_code,r,g,b,emotion_1,emotion_2,emotion_3,persona,best_use_case,temperature
+Red,#FF0000,255,0,0,Energy,Passion,Attention,Gamers,E-commerce Website,Warm
+Crimson,#DC143C,220,20,60,Excitement,Boldness,Urgency,Gamers,E-commerce Website,Warm
+Orange,#FFA500,255,165,0,Enthusiasm,Creativity,Warmth,Students,Educational Platform,Warm
+Coral,#FF7F50,255,127,80,Friendliness,Energy,Playfulness,Gamers,E-commerce Website,Warm
+Yellow,#FFFF00,255,255,0,Happiness,Optimism,Clarity,Students,Educational Platform,Warm
+Gold,#FFD700,255,215,0,Luxury,Success,Confidence,Business Users,Banking App,Warm
+Pink,#FFC0CB,255,192,203,Affection,Compassion,Playfulness,Students,E-commerce Website,Warm
+Brown,#8B4513,139,69,19,Stability,Reliability,Earthiness,Professionals,Banking App,Warm
+Blue,#0000FF,0,0,255,Trust,Security,Calmness,Business Users,Banking App,Cool
+SkyBlue,#87CEEB,135,206,235,Peace,Openness,Freshness,Students,Educational Platform,Cool
+Navy,#000080,0,0,128,Authority,Confidence,Professionalism,Professionals,Banking App,Cool
+Teal,#008080,0,128,128,Balance,Sophistication,Clarity,Professionals,Healthcare App,Cool
+Green,#008000,0,128,0,Growth,Nature,Balance,Professionals,Healthcare App,Cool
+MintGreen,#98FF98,152,255,152,Freshness,Healing,Renewal,Students,Healthcare App,Cool
+Purple,#800080,128,0,128,Creativity,Luxury,Mystery,Gamers,E-commerce Website,Cool
+Violet,#8F00FF,143,0,255,Imagination,Spirituality,Individuality,Gamers,E-commerce Website,Cool
+Indigo,#4B0082,75,0,130,Intuition,Depth,Wisdom,Professionals,Educational Platform,Cool
+White,#FFFFFF,255,255,255,Purity,Simplicity,Cleanliness,Business Users,Healthcare App,Neutral
+Gray,#808080,128,128,128,Neutrality,Balance,Practicality,Business Users,Banking App,Neutral
+Black,#000000,0,0,0,Elegance,Power,Sophistication,Business Users,Banking App,Neutral
+Beige,#F5F5DC,245,245,220,Calmness,Simplicity,Warmth,Professionals,Healthcare App,Neutral
+Silver,#C0C0C0,192,192,192,Modernity,Sleekness,Prestige,Business Users,Banking App,Neutral
+Charcoal,#36454F,54,69,79,Seriousness,Strength,Formality,Professionals,Banking App,Neutral
